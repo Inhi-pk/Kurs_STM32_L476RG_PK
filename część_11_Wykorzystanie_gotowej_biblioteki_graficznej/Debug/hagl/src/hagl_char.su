@@ -1,0 +1,4 @@
+C:/Users/02/Desktop/STM32/Praktykanci/Część_11_Wykorzystanie_gotowej_biblioteki_graficznej/hagl/include/hagl/blit.h:71:1:hagl_blit	24	static
+../hagl/src/hagl_char.c:41:9:hagl_get_glyph	48	static
+../hagl/src/hagl_char.c:79:9:hagl_put_char	120	static
+../hagl/src/hagl_char.c:128:10:hagl_put_text	56	static

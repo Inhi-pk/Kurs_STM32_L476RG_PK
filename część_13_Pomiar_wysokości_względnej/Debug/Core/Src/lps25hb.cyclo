@@ -1,0 +1,6 @@
+../Core/Src/lps25hb.c:25:16:lps_read_reg	1
+../Core/Src/lps25hb.c:31:13:lps_write_reg	1
+../Core/Src/lps25hb.c:35:19:lps25hb_init	2
+../Core/Src/lps25hb.c:45:7:lps25hb_read_temp	2
+../Core/Src/lps25hb.c:53:7:lps25hb_read_pressure	2
+../Core/Src/lps25hb.c:61:6:lps25hb_set_calib	1

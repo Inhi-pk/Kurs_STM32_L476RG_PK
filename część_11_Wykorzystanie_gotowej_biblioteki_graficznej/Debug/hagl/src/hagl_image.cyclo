@@ -1,0 +1,4 @@
+C:/Users/02/Desktop/STM32/Praktykanci/Część_11_Wykorzystanie_gotowej_biblioteki_graficznej/hagl/include/hagl/blit.h:71:1:hagl_blit	1
+../hagl/src/hagl_image.c:50:17:tjpgd_data_reader	3
+../hagl/src/hagl_image.c:62:17:tjpgd_data_writer	1
+../hagl/src/hagl_image.c:84:1:hagl_load_image	4

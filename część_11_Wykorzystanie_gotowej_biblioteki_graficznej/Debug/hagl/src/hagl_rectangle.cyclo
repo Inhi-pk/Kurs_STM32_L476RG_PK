@@ -1,0 +1,6 @@
+C:/Users/02/Desktop/STM32/Praktykanci/Część_11_Wykorzystanie_gotowej_biblioteki_graficznej/hagl/include/hagl/hline.h:95:20:hagl_draw_hline	1
+C:/Users/02/Desktop/STM32/Praktykanci/Część_11_Wykorzystanie_gotowej_biblioteki_graficznej/hagl/include/hagl/vline.h:91:20:hagl_draw_vline	1
+../hagl/src/hagl_rectangle.c:46:6:hagl_draw_rectangle_xyxy	7
+../hagl/src/hagl_rectangle.c:86:6:hagl_fill_rectangle_xyxy	9
+../hagl/src/hagl_rectangle.c:135:6:hagl_draw_rounded_rectangle_xyxy	9
+../hagl/src/hagl_rectangle.c:210:6:hagl_fill_rounded_rectangle_xyxy	9

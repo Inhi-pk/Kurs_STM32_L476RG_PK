@@ -1,0 +1,3 @@
+C:/Users/02/Desktop/STM32/Praktykanci/Część_11_Wykorzystanie_gotowej_biblioteki_graficznej/hagl/include/hagl/hline.h:76:20:hagl_draw_hline_xyx	1
+../hagl/src/hagl_polygon.c:42:6:hagl_draw_polygon	3
+../hagl/src/hagl_polygon.c:70:6:hagl_fill_polygon	18

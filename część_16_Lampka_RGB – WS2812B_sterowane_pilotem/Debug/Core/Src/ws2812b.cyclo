@@ -1,0 +1,5 @@
+../Core/Src/ws2812b.c:16:6:ws2812b_init	3
+../Core/Src/ws2812b.c:28:13:set_byte	3
+../Core/Src/ws2812b.c:42:6:ws2812b_update	1
+../Core/Src/ws2812b.c:47:6:ws2812b_wait	2
+../Core/Src/ws2812b.c:53:6:ws2812b_set_color	2

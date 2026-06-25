@@ -1,0 +1,4 @@
+C:/Users/02/Desktop/STM32/Praktykanci/Część_11_Wykorzystanie_gotowej_biblioteki_graficznej/hagl/include/hagl/rectangle.h:188:20:hagl_draw_rounded_rectangle	40	static
+../Core/Src/main.c:68:5:main	56	static
+../Core/Src/main.c:125:6:SystemClock_Config	96	static
+../Core/Src/main.c:173:6:Error_Handler	4	static,ignoring_inline_asm

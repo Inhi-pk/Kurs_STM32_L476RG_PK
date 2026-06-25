@@ -1,0 +1,5 @@
+C:/Users/02/Desktop/STM32/Praktykanci/Część_11_Wykorzystanie_gotowej_biblioteki_graficznej/hagl/include/hagl/rectangle.h:131:20:hagl_fill_rectangle	1
+../hagl/src/hagl.c:52:6:hagl_clear	1
+../hagl/src/hagl.c:65:17:hagl_init	1
+../hagl/src/hagl.c:74:8:hagl_flush	2
+../hagl/src/hagl.c:81:6:hagl_close	2
