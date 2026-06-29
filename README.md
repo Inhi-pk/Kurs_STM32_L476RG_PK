@@ -250,7 +250,7 @@ W repozytorium przećwiczono między innymi:
 
 ## Autor
 
-**Paweł Kop**
+**Paweł Kopczyński**
 
 Projekt wykonany w ramach praktyki zawodowej w **Sieć Badawcza Łukasiewicz – Instytut Technologii Eksploatacji**.
 
