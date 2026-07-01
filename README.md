@@ -1,4 +1,4 @@
-# Kurs STM32 L476RG PK
+# Kurs STM32 L476RG
 
 Repozytorium zawiera zestaw projektów przygotowanych dla płytki **NUCLEO-L476RG** z mikrokontrolerem **STM32L476RG**. Projekty zostały wykonane w języku **C** w środowisku **STM32CubeIDE** z wykorzystaniem biblioteki **HAL**. Ćwiczenia są oparte na kursie **Forbot STM32L4**, głównie na częściach od **#2 do #17**.
 
