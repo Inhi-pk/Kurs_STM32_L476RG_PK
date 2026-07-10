@@ -1,0 +1,2 @@
+../hagl/src/hagl_triangle.c:40:6:hagl_draw_triangle	40	static
+../hagl/src/hagl_triangle.c:48:6:hagl_fill_triangle	40	static

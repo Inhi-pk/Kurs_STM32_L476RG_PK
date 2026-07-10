@@ -1,0 +1,4 @@
+C:/Users/Paweł Kopczyński/Desktop/STM32/część_13_Czujnik_temperatury_i_ciśnienia_LPS25HB/hagl/include/hagl/blit.h:71:1:hagl_blit	1
+../hagl/src/hagl_image.c:50:17:tjpgd_data_reader	3
+../hagl/src/hagl_image.c:62:17:tjpgd_data_writer	1
+../hagl/src/hagl_image.c:84:1:hagl_load_image	4

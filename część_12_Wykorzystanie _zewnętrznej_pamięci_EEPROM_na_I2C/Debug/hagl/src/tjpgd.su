@@ -1,0 +1,11 @@
+../hagl/src/tjpgd.c:128:14:alloc_pool	24	static
+../hagl/src/tjpgd.c:154:12:create_qt_tbl	40	static
+../hagl/src/tjpgd.c:190:12:create_huffman_tbl	56	static
+../hagl/src/tjpgd.c:245:12:bitext	32	static
+../hagl/src/tjpgd.c:295:16:huffext	48	static
+../hagl/src/tjpgd.c:355:13:block_idct	88	static
+../hagl/src/tjpgd.c:467:16:mcu_load	72	static
+../hagl/src/tjpgd.c:550:16:mcu_output	120	static
+../hagl/src/tjpgd.c:704:16:restart	32	static
+../hagl/src/tjpgd.c:751:9:jd_prepare	48	static
+../hagl/src/tjpgd.c:927:9:jd_decomp	40	static

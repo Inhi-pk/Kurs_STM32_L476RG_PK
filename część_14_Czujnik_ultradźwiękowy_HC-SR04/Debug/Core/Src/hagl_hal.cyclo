@@ -1,0 +1,6 @@
+../Core/Src/hagl_hal.c:15:13:put_pixel	5
+../Core/Src/hagl_hal.c:25:21:get_pixel	1
+../Core/Src/hagl_hal.c:30:21:color	1
+../Core/Src/hagl_hal.c:41:15:flush	1
+../Core/Src/hagl_hal.c:47:13:close	1
+../Core/Src/hagl_hal.c:51:6:hagl_hal_init	1

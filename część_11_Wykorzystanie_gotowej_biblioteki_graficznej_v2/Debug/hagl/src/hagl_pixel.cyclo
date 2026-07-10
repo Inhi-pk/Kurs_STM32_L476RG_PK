@@ -1,0 +1,2 @@
+../hagl/src/hagl_pixel.c:40:6:hagl_put_pixel	5
+../hagl/src/hagl_pixel.c:57:14:hagl_get_pixel	6

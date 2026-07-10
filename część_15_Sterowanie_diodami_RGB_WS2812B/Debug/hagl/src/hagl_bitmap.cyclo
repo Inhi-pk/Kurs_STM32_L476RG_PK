@@ -1,0 +1,7 @@
+../hagl/src/hagl_bitmap.c:45:13:put_pixel	1
+../hagl/src/hagl_bitmap.c:53:21:get_pixel	1
+../hagl/src/hagl_bitmap.c:59:6:hline	2
+../hagl/src/hagl_bitmap.c:69:6:vline	2
+../hagl/src/hagl_bitmap.c:84:13:blit	12
+../hagl/src/hagl_bitmap.c:153:1:scale_blit	12
+../hagl/src/hagl_bitmap.c:225:6:hagl_bitmap_init	1

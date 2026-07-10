@@ -1,0 +1,5 @@
+C:/Users/Paweł Kopczyński/Desktop/STM32/część_11_Wykorzystanie_gotowej_biblioteki_graficznej/hagl/include/hagl/rectangle.h:76:20:hagl_draw_rectangle	1
+../Core/Src/main.c:65:6:HAL_SPI_TxCpltCallback	2
+../Core/Src/main.c:78:5:main	3
+../Core/Src/main.c:148:6:SystemClock_Config	4
+../Core/Src/main.c:202:6:Error_Handler	1

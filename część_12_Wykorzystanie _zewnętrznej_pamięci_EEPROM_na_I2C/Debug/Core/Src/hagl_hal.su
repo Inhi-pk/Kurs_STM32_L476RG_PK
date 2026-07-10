@@ -1,0 +1,6 @@
+../Core/Src/hagl_hal.c:14:13:put_pixel	24	static
+../Core/Src/hagl_hal.c:24:21:get_pixel	16	static
+../Core/Src/hagl_hal.c:29:21:color	24	static
+../Core/Src/hagl_hal.c:40:15:flush	16	static
+../Core/Src/hagl_hal.c:46:13:close	16	static
+../Core/Src/hagl_hal.c:50:6:hagl_hal_init	16	static

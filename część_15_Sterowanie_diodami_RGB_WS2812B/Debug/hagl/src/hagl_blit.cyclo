@@ -1,0 +1,2 @@
+../hagl/src/hagl_blit.c:42:6:hagl_blit_xy	10
+../hagl/src/hagl_blit.c:77:6:hagl_blit_xywh	6
